@@ -8,7 +8,14 @@
       <PackageId>Project3AWS</PackageId>
       <Version>1.0.0</Version>
       <IsPackable>true</IsPackable>
+      <UserSecretsId>3b78ad7b-f1a3-49dd-9296-4f37d586faef</UserSecretsId>
+      <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+      <DockerfileContext>.</DockerfileContext>
   </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.14.0" />
+  </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="TestProject1\TestProject1.csproj" />

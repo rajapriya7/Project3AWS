@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "U7wbRmXVOjUJu2EqD8Rj5EyaM7JqZG9yMaGAeHg3Sx9Gpn6VJBBunk+sbt3U2so4BvlugKmP+QTs0YjdtMwyvw==",
+  "dgSpecHash": "VWp9L4KeInwLvJWqSjfQrG+N0ys0+7omvkwaxFJxda140lcA/xg5wbCB9ulenMej0r7TGx/lyJXlLrG6t3VpOw==",
   "success": true,
   "projectFilePath": "C:\\Users\\rajap\\source\\repos\\Project3AWS\\Project3AWS.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\rajap\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
     "C:\\Users\\rajap\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.11.0\\microsoft.testplatform.objectmodel.16.11.0.nupkg.sha512",
     "C:\\Users\\rajap\\.nuget\\packages\\microsoft.testplatform.testhost\\16.11.0\\microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
+    "C:\\Users\\rajap\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\rajap\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\rajap\\.nuget\\packages\\newtonsoft.json\\9.0.1\\newtonsoft.json.9.0.1.nupkg.sha512",
     "C:\\Users\\rajap\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
